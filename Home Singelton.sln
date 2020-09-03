@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home Singelton", "Home Singelton\Home Singelton.vcxproj", "{F5387ADC-3EB7-499F-9F5D-F3722628D461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5387ADC-3EB7-499F-9F5D-F3722628D461}.Debug|x64.ActiveCfg = Debug|x64
+		{F5387ADC-3EB7-499F-9F5D-F3722628D461}.Debug|x64.Build.0 = Debug|x64
+		{F5387ADC-3EB7-499F-9F5D-F3722628D461}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5387ADC-3EB7-499F-9F5D-F3722628D461}.Debug|x86.Build.0 = Debug|Win32
+		{F5387ADC-3EB7-499F-9F5D-F3722628D461}.Release|x64.ActiveCfg = Release|x64
+		{F5387ADC-3EB7-499F-9F5D-F3722628D461}.Release|x64.Build.0 = Release|x64
+		{F5387ADC-3EB7-499F-9F5D-F3722628D461}.Release|x86.ActiveCfg = Release|Win32
+		{F5387ADC-3EB7-499F-9F5D-F3722628D461}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEDDA7B9-1A8B-4E43-B9F7-DC78270B4B38}
+	EndGlobalSection
+EndGlobal
